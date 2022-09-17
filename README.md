@@ -4,7 +4,7 @@
 <br>
 
 ## X軸とY軸の値を指定して棒グラフ表示
-![画像1](./Matplotlib-Exercises2-1.png)
+![画像1](./image01.png)
 
 <br>
 
@@ -12,12 +12,12 @@
 ```
 sales
 ```
-![画像2](./Matplotlib-Exercises2-2.png)
+![画像2](./image02.png)
 
 <br>
 
 ## X軸とY軸にデータフレームの値を設定して棒グラフ表示
-![画像3](./Matplotlib-Exercises2-3.png)
+![画像3](./image03.png)
 
 <br>
 
@@ -25,7 +25,7 @@ sales
 ```
 sales1
 ```
-![画像4](./Matplotlib-Exercises2-4.png)
+![画像4](./image04.png)
 
 <br>
 
@@ -33,11 +33,11 @@ sales1
 ```
 sales2
 ```
-![画像5](./Matplotlib-Exercises2-5.png)
+![画像5](./image05.png)
 
 <br>
 
 ## 各データフレームのデータを色で区別して積上げ棒グラフ表示
-![画像6](./Matplotlib-Exercises2-6.png)
+![画像6](./image06.png)
 
 <br>
